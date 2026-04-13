@@ -56,23 +56,23 @@ pip install -r requirements.txt
 
 ## 📊 Project Visualizations
 
-### 1. Supervised Learning: Confusion Matrix
+ 1. Supervised Learning: Confusion Matrix
 This matrix proves the Random Forest model's ability to perfectly classify known attack types (DDoS and Brute Force) vs. Normal traffic.
 ![Confusion Matrix](outputs/confusion_matrix.png)
 
-### 2. Unsupervised Learning: Threat Map
+ 2. Unsupervised Learning: Threat Map
 The Isolation Forest identifies "Zero-Day" anomalies by isolating extreme data points (red) that deviate from the normal traffic baseline (blue).
 ![Threat Map](outputs/threat_scatter.png)
 
 ## 🖥️ Live Dashboard Preview
 Below are the actual screenshots of the AI SOC Dashboard in action:
 
-#### 1. Live Threat Detection (Anomaly Mapping)
+ 1. Live Threat Detection (Anomaly Mapping)
 ![Dashboard Scan](outputs/map.png)
 
-#### 2. Supervised AI Performance & Metrics
+ 2. Supervised AI Performance & Metrics
 ![Model Performance](outputs/model_performance.png)
 
-#### 3. Network Telemetry & Raw Logs
+ 3. Network Telemetry & Raw Logs
 ![Network Logs](outputs/scr_logs.png)
-![Network Logs](outputs/result scr 1 (3).png)
+![Network Logs](outputs/result_scr_1.png)
