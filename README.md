@@ -52,7 +52,7 @@ cd AI-Cybersecurity-Threat-Detection
 
 # Install all required libraries
 pip install -r requirements.txt
-
+```
 
 ## 📊 Project Visualizations
 
