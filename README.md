@@ -71,8 +71,7 @@ Below are the actual screenshots of the AI SOC Dashboard in action:
 ![Dashboard Scan](outputs/map.png)
 
  2. Supervised AI Performance & Metrics
-![Model Performance](outputs/scr_metrics.png)
+![Model Performance](outputs/model_performance.png)
 
  3. Network Telemetry & Raw Logs
-![Network Logs](outputs/scr_logs.png)
 ![Network Logs](outputs/result_scr_1.png)
